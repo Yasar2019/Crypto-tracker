@@ -1,0 +1,21 @@
+.transaction-list {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.transaction-list h3 {
+    margin-bottom: 10px;
+}
+
+.transaction-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.transaction-list li {
+    margin-bottom: 5px;
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+}

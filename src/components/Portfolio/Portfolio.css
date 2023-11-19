@@ -1,0 +1,13 @@
+/* Portfolio.css */
+div.portfolio {
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+div.portfolio h2 {
+    color: #2c3e50;
+    font-size: 20px;
+}

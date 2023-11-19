@@ -1,0 +1,49 @@
+/* WalletManager.css */
+div.wallet-manager {
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+div.wallet-manager h2 {
+    color: #2c3e50;
+    font-size: 20px;
+}
+
+/* WalletManager.css */
+.wallet-manager {
+    margin: 20px;
+    padding: 20px;
+}
+
+.wallet-manager input {
+    margin-right: 10px;
+}
+
+.wallet-manager div {
+    margin-top: 15px;
+}
+
+/* Add styles for error message */
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+/* Add styles for wallet items and buttons */
+.wallet-item {
+    margin-bottom: 10px;
+}
+
+.wallet-item button {
+    margin-left: 10px;
+}
+
+/* Styles for the transaction list */
+.transaction-list {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
